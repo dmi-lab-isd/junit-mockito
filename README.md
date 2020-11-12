@@ -3,6 +3,7 @@
 Argomenti trattati:
 - Uso di @Test per la creazione di test indipendenti con JUnit
 - @Before, @After, @BeforeClass, @AfterClass
+- Assertj
 - Dependence Injection
 - Mock senza l'uso di framework
 - Mock con Mockito
