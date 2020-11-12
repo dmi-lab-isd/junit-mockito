@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-@RunWith(value = Parameterized.class)
+@RunWith(Parameterized.class)
 public class SommatoreParamTest {
 	private int a;  // variabili usate nel test
 	private int b;
